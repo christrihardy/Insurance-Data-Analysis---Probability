@@ -8,7 +8,6 @@ Hasil analisis: https://medium.com/@ctrihardy/insurance-data-analysis-probabilit
 ## Tools
 Languages: 
 - Python/Jupyter Notebook
-- 
 
 Libraries:
 - scipy
@@ -16,3 +15,23 @@ Libraries:
 - Pandas
 - seaborn
 - matplotlib
+
+# Files
+
+Di repository ini ada 4 file jupyter untuk penghitungan probability dari analisa dataset ini, yaitu
+
+1. descriptive.ipynb
+
+    File ini berisi code untuk analisa dan visualisasi descriptive statistics.
+  
+2. discrete.ipynb
+
+    File ini berisi code untuk analisa dan visualisasi variabel diskrit.
+    
+5. continuous.ipynb
+    
+    File ini berisi code untuk analisa dan visualisasi variabel kontinu.
+    
+7. correlation_hypothesis.ipynb
+
+    File ini berisi code untuk analisa dan visualisasi korelasi variabel dan Uji Hipotesis.
